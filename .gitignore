@@ -1,0 +1,5 @@
+src/sets
+__pycache__
+*.pth
+.env
+node_modules
