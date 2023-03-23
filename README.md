@@ -1,4 +1,4 @@
-# BillClassify
+# bill-classifier
 
 <br>1) Sets should be extracted to src/sets/Set X
 
